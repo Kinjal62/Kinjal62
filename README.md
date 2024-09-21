@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kinjal62" alt="kinjal62" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/kinjal062" target="blank"><img src="https://img.shields.io/twitter/follow/kinjal062?logo=twitter&style=for-the-badge" alt="kinjal062" /></a> </p>
-
 - 🌱 I’m currently learning **Node.js, SQL**
 
 - 👯 I’m looking to collaborate on **React.Js and React Native projects**
